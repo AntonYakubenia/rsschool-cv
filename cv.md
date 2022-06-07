@@ -15,4 +15,7 @@
 		Stadler Minsk
 		_Purchasing Specialist_
 
-3.	English level: *B2*
+3.	Languages
+	1. English - *B2*
+	2. Polish - *B1*
+	3. Russian - *native*
